@@ -54,3 +54,7 @@ This project provided valuable insights into fuel price trends across Argentina,
 
 The analysis revealed clear patterns of price changes for specific fuel types, which can guide economic and logistical planning.
 
+Feel free to reach out for any questions or suggestions about this project. I'm open to discussions and eager to assist.  [LinkedIn | Shreya Sinha Roy](https://www.linkedin.com/in/shreya-sinha-roy-40a968166/)
+
+Don't forget to follow and star ⭐ the repository if you find it valuable.
+
